@@ -3,32 +3,63 @@
   "WorkspaceRootPath": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\blogswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:blogswebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\returns\\commentsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\returns\\commentsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CA239EF-E2F0-41B1-B072-531385230F4D}|..\\TestBlog1\\TestBlog1.csproj|c:\\users\\jotalora\\source\\repos\\testblog1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\dto\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\dto\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\dto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\dto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\security\\auth1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:security\\auth1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:controllers\\operationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\returns\\postresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\returns\\postresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\posttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\posttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\blogwa2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,24 +70,8 @@
       "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:abstractions\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\services\\mappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:services\\mappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\returns\\postresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\returns\\postresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\returns\\commentsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\returns\\commentsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\dto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\dto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +80,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\returns\\userauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\returns\\userauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\security\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -81,10 +92,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\returns\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\returns\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\dto\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\dto\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +101,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,32 +133,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAB8AAAAHAAAA",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\TestBlog1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestBlog1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\TestBlog1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestBlog1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:47:35.415Z",
+              "WhenOpened": "2025-04-26T01:30:34.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OperationController.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Controllers\\OperationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\OperationController.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Controllers\\OperationController.cs",
-              "RelativeToolTip": "Controllers\\OperationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "DocumentIndex": 10,
+              "Title": "PostResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\PostResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Returns\\PostResponse.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\PostResponse.cs",
+              "RelativeToolTip": "Models\\Returns\\PostResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T00:01:22.321Z"
+              "WhenOpened": "2025-04-25T16:56:09.504Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "CommentsResponse.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\CommentsResponse.cs",
               "RelativeDocumentMoniker": "Models\\Returns\\CommentsResponse.cs",
@@ -159,19 +167,59 @@
               "RelativeToolTip": "Models\\Returns\\CommentsResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T15:45:09.639Z"
+              "WhenOpened": "2025-04-25T15:45:09.639Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-24T23:40:45.838Z",
+              "DocumentIndex": 7,
+              "Title": "Auth1.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Security\\Auth1.cs",
+              "RelativeDocumentMoniker": "Security\\Auth1.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Security\\Auth1.cs",
+              "RelativeToolTip": "Security\\Auth1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:39:53.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperationController.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Controllers\\OperationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OperationController.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Controllers\\OperationController.cs",
+              "RelativeToolTip": "Controllers\\OperationController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowBoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:01:22.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\DTO\\PostDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\PostDTO.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\DTO\\PostDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\PostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:54:41.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\DTO\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTO\\CommentDTO.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\DTO\\CommentDTO.cs",
+              "RelativeToolTip": "Models\\DTO\\CommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:26:46.533Z",
               "EditorCaption": ""
             },
             {
@@ -188,12 +236,73 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:47:35.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T23:40:45.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:02:58.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostType.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\PostType.cs",
+              "RelativeDocumentMoniker": "Models\\PostType.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\PostType.cs",
+              "RelativeToolTip": "Models\\PostType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T01:09:38.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Mappers.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Services\\Mappers.cs",
+              "RelativeDocumentMoniker": "Services\\Mappers.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Services\\Mappers.cs",
+              "RelativeToolTip": "Services\\Mappers.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAwwE0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:13:27.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AutenticationController.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Controllers\\AutenticationController.cs",
               "RelativeDocumentMoniker": "Controllers\\AutenticationController.cs",
@@ -206,19 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BlogWA2Context.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\BlogWA2Context.cs",
-              "RelativeDocumentMoniker": "Models\\BlogWA2Context.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\BlogWA2Context.cs",
-              "RelativeToolTip": "Models\\BlogWA2Context.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA4wCUAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:15:07.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Services.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Services\\Services.cs",
               "RelativeDocumentMoniker": "Services\\Services.cs",
@@ -231,115 +328,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Mappers.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Services\\Mappers.cs",
-              "RelativeDocumentMoniker": "Services\\Mappers.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Services\\Mappers.cs",
-              "RelativeToolTip": "Services\\Mappers.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAwwE0AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T03:13:27.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IServices.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Abstractions\\IServices.cs",
-              "RelativeDocumentMoniker": "Abstractions\\IServices.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Abstractions\\IServices.cs",
-              "RelativeToolTip": "Abstractions\\IServices.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:50:21.126Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "UserAuth.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\UserAuth.cs",
-              "RelativeDocumentMoniker": "Models\\Returns\\UserAuth.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\UserAuth.cs",
-              "RelativeToolTip": "Models\\Returns\\UserAuth.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
+              "Title": "BlogWA2Context.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\BlogWA2Context.cs",
+              "RelativeDocumentMoniker": "Models\\BlogWA2Context.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\BlogWA2Context.cs",
+              "RelativeToolTip": "Models\\BlogWA2Context.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T04:43:01.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:16:54.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Auth1.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Security\\Auth1.cs",
-              "RelativeDocumentMoniker": "Security\\Auth1.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Security\\Auth1.cs",
-              "RelativeToolTip": "Security\\Auth1.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowDcAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T04:39:53.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "Models\\Post.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Post.cs",
-              "RelativeToolTip": "Models\\Post.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T17:02:58.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PostResponse.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\PostResponse.cs",
-              "RelativeDocumentMoniker": "Models\\Returns\\PostResponse.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\PostResponse.cs",
-              "RelativeToolTip": "Models\\Returns\\PostResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:56:09.504Z"
+              "WhenOpened": "2025-04-25T16:15:07.325Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "CommentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\DTO\\CommentDTO.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\CommentDTO.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\DTO\\CommentDTO.cs",
-              "RelativeToolTip": "Models\\DTO\\CommentDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T15:26:46.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Security\\UserValidator.cs",
-              "RelativeDocumentMoniker": "Security\\UserValidator.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Security\\UserValidator.cs",
-              "RelativeToolTip": "Security\\UserValidator.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAlwBIAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T03:26:33.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Comment.cs",
               "RelativeDocumentMoniker": "Models\\Comment.cs",
@@ -347,11 +349,64 @@
               "RelativeToolTip": "Models\\Comment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:28:24.496Z"
+              "WhenOpened": "2025-04-25T16:28:24.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IServices.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Abstractions\\IServices.cs",
+              "RelativeDocumentMoniker": "Abstractions\\IServices.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Abstractions\\IServices.cs",
+              "RelativeToolTip": "Abstractions\\IServices.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:50:21.126Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "UserAuth.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\UserAuth.cs",
+              "RelativeDocumentMoniker": "Models\\Returns\\UserAuth.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\UserAuth.cs",
+              "RelativeToolTip": "Models\\Returns\\UserAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:43:01.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:16:54.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Security\\UserValidator.cs",
+              "RelativeDocumentMoniker": "Security\\UserValidator.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Security\\UserValidator.cs",
+              "RelativeToolTip": "Security\\UserValidator.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAlwBIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:26:33.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\Response.cs",
               "RelativeDocumentMoniker": "Models\\Returns\\Response.cs",
@@ -359,11 +414,12 @@
               "RelativeToolTip": "Models\\Returns\\Response.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T15:05:13.488Z"
+              "WhenOpened": "2025-04-25T15:05:13.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\DTO\\UserDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTO\\UserDTO.cs",
@@ -371,19 +427,8 @@
               "RelativeToolTip": "Models\\DTO\\UserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T03:12:01.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PostDTO.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\DTO\\PostDTO.cs",
-              "RelativeDocumentMoniker": "Models\\DTO\\PostDTO.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\DTO\\PostDTO.cs",
-              "RelativeToolTip": "Models\\DTO\\PostDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T14:54:41.27Z"
+              "WhenOpened": "2025-04-25T03:12:01.502Z",
+              "EditorCaption": ""
             }
           ]
         }
