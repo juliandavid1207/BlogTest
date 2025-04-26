@@ -1,0 +1,311 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Blogs Web API",
+    "description": "APIblogs",
+    "contact": {
+      "name": "Julian Otalora",
+      "email": "julian_0207@hotmail.com"
+    },
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Autentication/Login": {
+      "post": {
+        "tags": [
+          "Autentication"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "user",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "password",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Autentication/Register": {
+      "post": {
+        "tags": [
+          "Autentication"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/UserDTO"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Operation/InsertComments": {
+      "post": {
+        "tags": [
+          "Operation"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/CommentDTO"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Operation/InsertPosts": {
+      "post": {
+        "tags": [
+          "Operation"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/PostDTO"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Operation/GetComments": {
+      "get": {
+        "tags": [
+          "Operation"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "idPost",
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Operation/GetPost": {
+      "get": {
+        "tags": [
+          "Operation"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "idPost",
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Operation/UpdatePost": {
+      "put": {
+        "tags": [
+          "Operation"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "idPost",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/PostDTO"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Operation/UpdateComment": {
+      "put": {
+        "tags": [
+          "Operation"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "idComment",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/CommentDTO"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Operation/DeleteComment": {
+      "delete": {
+        "tags": [
+          "Operation"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "idComment",
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Operation/DeletePost": {
+      "delete": {
+        "tags": [
+          "Operation"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "idPost",
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "CommentDTO": {
+      "type": "object",
+      "properties": {
+        "comment": {
+          "type": "string"
+        },
+        "idPost": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "idUser": {
+          "format": "int32",
+          "type": "integer"
+        }
+      }
+    },
+    "PostDTO": {
+      "type": "object",
+      "properties": {
+        "postType": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "postPath": {
+          "type": "string"
+        },
+        "idUser": {
+          "format": "int32",
+          "type": "integer"
+        }
+      }
+    },
+    "UserDTO": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "email": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
