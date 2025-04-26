@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA239EF-E2F0-41B1-B072-531385230F4D}|..\\TestBlog1\\TestBlog1.csproj|c:\\users\\jotalora\\source\\repos\\testblog1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,9 +20,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\returns\\commentsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:models\\returns\\commentsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA239EF-E2F0-41B1-B072-531385230F4D}|..\\TestBlog1\\TestBlog1.csproj|c:\\users\\jotalora\\source\\repos\\testblog1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\models\\dto\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,10 +36,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\security\\auth1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:security\\auth1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{826AE9FF-FCE2-48FD-941F-CFC89908813A}|BlogsWebApi.csproj|c:\\users\\jotalora\\source\\repos\\blogswebapi\\controllers\\autenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -133,33 +133,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\TestBlog1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\TestBlog1\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\jotalora\\source\\repos\\TestBlog1\\UnitTest1.cs",
               "RelativeToolTip": "..\\TestBlog1\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAfAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T01:30:34.875Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PostResponse.cs",
-              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\PostResponse.cs",
-              "RelativeDocumentMoniker": "Models\\Returns\\PostResponse.cs",
-              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\PostResponse.cs",
-              "RelativeToolTip": "Models\\Returns\\PostResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:56:09.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CommentsResponse.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\CommentsResponse.cs",
               "RelativeDocumentMoniker": "Models\\Returns\\CommentsResponse.cs",
@@ -167,12 +154,11 @@
               "RelativeToolTip": "Models\\Returns\\CommentsResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T15:45:09.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T15:45:09.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Auth1.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Security\\Auth1.cs",
               "RelativeDocumentMoniker": "Security\\Auth1.cs",
@@ -180,12 +166,11 @@
               "RelativeToolTip": "Security\\Auth1.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowDcAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T04:39:53.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T04:39:53.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "OperationController.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Controllers\\OperationController.cs",
               "RelativeDocumentMoniker": "Controllers\\OperationController.cs",
@@ -193,12 +178,11 @@
               "RelativeToolTip": "Controllers\\OperationController.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAowBoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T00:01:22.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T00:01:22.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PostDTO.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\DTO\\PostDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTO\\PostDTO.cs",
@@ -206,12 +190,11 @@
               "RelativeToolTip": "Models\\DTO\\PostDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T14:54:41.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T14:54:41.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CommentDTO.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\DTO\\CommentDTO.cs",
               "RelativeDocumentMoniker": "Models\\DTO\\CommentDTO.cs",
@@ -219,12 +202,11 @@
               "RelativeToolTip": "Models\\DTO\\CommentDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T15:26:46.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T15:26:46.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BlogsWebApi.csproj",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\BlogsWebApi.csproj",
               "RelativeDocumentMoniker": "BlogsWebApi.csproj",
@@ -232,25 +214,24 @@
               "RelativeToolTip": "BlogsWebApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-24T23:29:58.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T23:29:58.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAB8AAAAHAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAB8AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T23:47:35.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -263,6 +244,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostResponse.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\PostResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Returns\\PostResponse.cs",
+              "ToolTip": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Returns\\PostResponse.cs",
+              "RelativeToolTip": "Models\\Returns\\PostResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T16:56:09.504Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\Users\\jotalora\\source\\repos\\BlogsWebApi\\Models\\Post.cs",
@@ -271,8 +264,7 @@
               "RelativeToolTip": "Models\\Post.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T17:02:58.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T17:02:58.575Z"
             },
             {
               "$type": "Document",
@@ -284,8 +276,7 @@
               "RelativeToolTip": "Models\\PostType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T01:09:38.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-26T01:09:38.954Z"
             },
             {
               "$type": "Document",
@@ -297,8 +288,7 @@
               "RelativeToolTip": "Services\\Mappers.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAwwE0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T03:13:27.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T03:13:27.514Z"
             },
             {
               "$type": "Document",
@@ -310,8 +300,7 @@
               "RelativeToolTip": "Controllers\\AutenticationController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAD4vyoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:46:32.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T23:46:32.045Z"
             },
             {
               "$type": "Document",
@@ -323,8 +312,7 @@
               "RelativeToolTip": "Services\\Services.cs",
               "ViewState": "AQIAAGkAAAAAAAAAAAAQwHQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:50:04.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T23:50:04.949Z"
             },
             {
               "$type": "Document",
@@ -336,8 +324,7 @@
               "RelativeToolTip": "Models\\BlogWA2Context.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAcwCUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:15:07.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T16:15:07.325Z"
             },
             {
               "$type": "Document",
@@ -349,8 +336,7 @@
               "RelativeToolTip": "Models\\Comment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:28:24.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T16:28:24.496Z"
             },
             {
               "$type": "Document",
@@ -362,8 +348,7 @@
               "RelativeToolTip": "Abstractions\\IServices.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T23:50:21.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T23:50:21.126Z"
             },
             {
               "$type": "Document",
@@ -375,8 +360,7 @@
               "RelativeToolTip": "Models\\Returns\\UserAuth.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T04:43:01.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T04:43:01.142Z"
             },
             {
               "$type": "Document",
@@ -388,8 +372,7 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBEAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T16:16:54.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T16:16:54.666Z"
             },
             {
               "$type": "Document",
@@ -401,8 +384,7 @@
               "RelativeToolTip": "Security\\UserValidator.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAlwBIAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T03:26:33.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T03:26:33.693Z"
             },
             {
               "$type": "Document",
@@ -414,8 +396,7 @@
               "RelativeToolTip": "Models\\Returns\\Response.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T15:05:13.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T15:05:13.488Z"
             },
             {
               "$type": "Document",
@@ -427,8 +408,7 @@
               "RelativeToolTip": "Models\\DTO\\UserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T03:12:01.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-25T03:12:01.502Z"
             }
           ]
         }
